@@ -1,6 +1,6 @@
-# projetagile-android
+# Projet Agile Ma Ptite Brocante - Android
 
-Ma Petite Brocante
+
 Ma petite brocante permet aux utilisateurs de connaître les brocantes proches de chez eux. Celles-ci sont consultables sur le site web ainsi que sur l'application mobile.
 
 A propos
